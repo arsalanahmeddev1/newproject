@@ -200,3 +200,6 @@ const checkFunc = (list) => {
     })
 }
 tasksFunc()
+tasksFunc()
+tasksFunc()
+tasksFunc()
